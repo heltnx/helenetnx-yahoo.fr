@@ -1,0 +1,5 @@
+{
+  "name": "Gestionnaire de Prompts IA",
+  "description": "Une application web pour créer, modifier, supprimer et organiser des prompts pour l'IA. Les prompts sont classés par catégorie et peuvent être recherchés par mots-clés, avec toutes les données stockées localement dans le navigateur.",
+  "requestFramePermissions": []
+}
